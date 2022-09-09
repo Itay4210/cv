@@ -1,0 +1,37 @@
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+img {
+    height: 703px;
+    width: 1510px;
+}
+
+h1 {
+    font-size: 60px;
+
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 170px;
+    left: 670px;
+    background: rgba(236, 230, 230, 0.84);
+    width: 150px;
+    text-align: center;
+}
+
+input[type="button"] {
+    background-color: blue;
+
+
+}
+
+#b {
+
+    background-color: aquamarine;
+
+}
